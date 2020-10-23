@@ -8,12 +8,14 @@ body {
 
 /* About me  */
 .jumbotron {
-    margin-top: 100px;
+    margin-top: 150px;
+    margin-bottom: 100px;
   }
 
 #headshot {
     max-width: 50%;
     max-height: auto;
+    min-width: 325px;
     padding-right: 25px;
     padding-bottom: 15px;
 }
