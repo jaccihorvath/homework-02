@@ -42,3 +42,27 @@ The finished project can be deployed [here](https://jaccihorvath.github.io/respo
 ![index-xl](assets/index-xl.png)
 ![portfolio-xl](assets/portfolio-xl.png)
 ![contact-xl](assets/contact-xl.png)
+
+### LG Viewport
+
+![index-lg](assets/index-lg.png)
+![portfolio-lg](assets/portfolio-lg.png)
+![contact-lg](assets/contact-lg.png)
+
+### MD Viewport
+
+![index-md](assets/index-md.png)
+![portfolio-md](assets/portfolio-md.png)
+![contact-md](assets/contact-md.png)
+
+### SM Viewport
+
+![index-sm](assets/index-sm.png)
+![portfolio-sm](assets/portfolio-sm.png)
+![contact-sm](assets/contact-sm.png)
+
+### XS Viewport
+
+![index-xs](assets/index-xs.png)
+![portfolio-xs](assets/portfolio-xs.png)
+![contact-xs](assets/contact-xs.png)
