@@ -39,6 +39,6 @@ The finished project can be deployed [here](https://jaccihorvath.github.io/respo
 
 ### XL Viewport
 
-![index-xl](assets/index-xl)
-![portfolio-xl](assets/portfolio-xl)
-![contact-xl](assets/contact-xl)
+![index-xl](assets/index-xl.png)
+![portfolio-xl](assets/portfolio-xl.png)
+![contact-xl](assets/contact-xl.png)
