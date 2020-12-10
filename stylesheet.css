@@ -31,13 +31,18 @@ body {
     width: 20px;
 }
 
-/* contact page */
-#divider-icon {
+/* icons */
+.fa-grip-lines-vertical {
   color: lightgray;
   padding-left: 10px;
   padding-right: 10px;
 }
 
-.icon {
+.fa-envelope {
   color: #102B3F;
 }
+
+.fa-phone {
+  color: #102B3F;
+}
+
